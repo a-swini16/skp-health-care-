@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/login/page": "app/login/page.js",
+  "/(dashboard)/doctors/page": "app/(dashboard)/doctors/page.js",
+  "/(dashboard)/billing/page": "app/(dashboard)/billing/page.js",
+  "/(dashboard)/inventory/page": "app/(dashboard)/inventory/page.js",
+  "/(dashboard)/page": "app/(dashboard)/page.js",
+  "/(dashboard)/patients/[id]/page": "app/(dashboard)/patients/[id]/page.js",
+  "/(dashboard)/patients/[id]/edit/page": "app/(dashboard)/patients/[id]/edit/page.js",
+  "/(dashboard)/reports/page": "app/(dashboard)/reports/page.js",
+  "/(dashboard)/settings/page": "app/(dashboard)/settings/page.js",
+  "/(dashboard)/patients/page": "app/(dashboard)/patients/page.js",
+  "/(dashboard)/tests/page": "app/(dashboard)/tests/page.js",
+  "/(dashboard)/sample-tracking/page": "app/(dashboard)/sample-tracking/page.js"
+}
