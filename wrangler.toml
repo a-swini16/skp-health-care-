@@ -1,0 +1,8 @@
+name = "skp-group"
+main = ".open-next/worker.js"
+compatibility_date = "2026-07-18"
+compatibility_flags = ["nodejs_compat"]
+
+[assets]
+directory = ".open-next/assets"
+binding = "ASSETS"
